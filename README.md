@@ -1,34 +1,24 @@
-## 👋 Hi there, I’m NITHISH KUMAR S P!
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFAC&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Nithish+Kumar+S+P!;Full-stack+Developer+%7C+Builder+%7C+Learner" alt="Typing SVG" />
+</h1>
 
-I’m a full-stack developer passionate about building impactful, user-centric products.  
-🚀 Delivered 2 live projects | 🎓 Pursuing B.E. CSE @ Bannari Amman Institute of Technology  
-💼 Open to full-time/salaried roles | 🤝 Always learning, always building
-
----
-
-### 🛠️ Tech Stack
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend**: Node.js, Express.js, MongoDB, MySQL
-- **Tools**: Git, GitHub, Postman, VS Code
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
+</p>
 
 ---
 
-### 🔍 Currently Exploring
-- Advanced system design
-- Cloud deployment & performance optimization
-- Contributing to open-source projects
+### 🚀 About Me
 
----
-
-### 📫 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Portfolio](https://nithishkumar.framer.website)
-- Email: nithishkumar3115@gmail.com
-
----
-
-<!-- GitHub Stats (Optional) -->
-![Nithish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nithishkumarsp03&show_icons=true&theme=radical)
-
-<!-- Top Languages (Optional) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithishkumarsp03&layout=compact&theme=radical)
+```javascript
+const nithish = {
+  name: "Nithish Kumar S P",
+  role: "Full-stack Developer",
+  projects: 2,
+  status: "Open to salaried roles",
+  passion: "Building impactful products",
+  traits: ["Humble", "Curious", "Team Player"],
+  education: "B.E. CSE @ BIT",
+  currentlyLearning: ["System Design", "Cloud Deployment"],
+  funFact: "Built my first product at 18!",
+}
