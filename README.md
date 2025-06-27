@@ -22,8 +22,8 @@ I’m a full-stack developer passionate about building impactful, user-centric p
 
 ### 📫 Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Portfolio](https://yourportfolio.com)
-- Email: your.email@example.com
+- [Portfolio](https://nithishkumar.framer.website)
+- Email: nithishkumar3115@gmail.com
 
 ---
 
