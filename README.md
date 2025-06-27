@@ -1,24 +1,23 @@
+<!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFAC&center=true&vCenter=true&width=full&lines=Hey+there!+I'm+Nithish+Kumar+S+P!;Full-stack+Developer+%7C+Builder+%7C+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+there!+I'm+NITHISH+KUMAR+S+P+%F0%9F%91%8B;Full-Stack+Developer+%7C+Product+Builder+%7C+Tech+Explorer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" height="60" />
 </p>
 
 ---
 
-### 🚀 About Me
-
-```javascript
-const nithish = {
-  name: "Nithish Kumar S P",
+### 👨‍💻 About Me
+```js
+const Nithish = {
+  username: "Nithishkumarsp03",
   role: "Full-stack Developer",
-  projects: 2,
-  status: "Open to salaried roles",
-  passion: "Building impactful products",
-  traits: ["Humble", "Curious", "Team Player"],
-  education: "B.E. CSE @ BIT",
-  currentlyLearning: ["System Design", "Cloud Deployment"],
-  funFact: "Built my first product at 18!",
-}
+  education: "B.E. Computer Science @ BIT",
+  experience: "2 Live Projects Delivered",
+  openTo: ["Salaried Roles", "Team Collaborations", "Remote Work"],
+  traits: ["Humble", "Respectful", "Always Learning"],
+  startedBuilding: 18,
+  currentFocus: ["System Design", "Cloud Deployment", "Scaling Full-Stack Apps"]
+};
