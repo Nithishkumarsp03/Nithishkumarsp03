@@ -3,11 +3,18 @@
 </h1>
 
 <p align="center">
-  <strong><a href="https://nithishkumarsp.vercel.app" target="_blank">Portfolio</a></strong> •
-  <strong><a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn</a></strong> •
-  <strong><a href="mailto:nithishkumar3115@gmail.com">Email</a></strong>
-  </p>
-
+  <a href="https://nithishkumarsp.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/nithishkumarsp" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:nithishkumar3115@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 <p align="center">
   I'm a results-oriented Full-Stack Developer and a final-year Computer Science student at Bannari Amman Institute of Technology. My passion lies in transforming complex problems into elegant, high-performance web applications. I thrive on building products from the ground up and continuously learning new technologies to create seamless user experiences. I'm currently seeking full-time Software Developer opportunities where I can contribute to impactful projects and grow as an engineer.
 </p>
@@ -27,7 +34,7 @@
         <strong>Technologies:</strong> React, Node.js, Express, MongoDB, Tailwind CSS
       </p>
       <div>
-        <a href="[LINK_TO_LIVE_DEMO_1]" target="_blank">
+        <a href="https://bitlinks.bitsathy.ac.in/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-007BFF?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
         <a href="[LINK_TO_GITHUB_REPO_1]" target="_blank">
@@ -36,8 +43,8 @@
       </div>
     </td>
     <td width="35%">
-      <a href="[LINK_TO_LIVE_DEMO_1]" target="_blank">
-        <img src="[LINK_TO_PROJECT_1_SCREENSHOT_OR_GIF]" alt="Project 1 Demo" />
+      <a href="https://bitlinks.bitsathy.ac.in/" target="_blank">
+        <img src="https://framerusercontent.com/images/dQ02N6pI1r9Y6CUex93cz1qhaM.png" alt="Project 1 Demo" />
         </a>
     </td>
   </tr>
