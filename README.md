@@ -44,7 +44,7 @@
     </td>
     <td width="35%">
       <a href="https://bitlinks.bitsathy.ac.in/" target="_blank">
-        <img src="https://framerusercontent.com/images/dQ02N6pI1r9Y6CUex93cz1qhaM.png" alt="Project 1 Demo" />
+        <img src="https://framerusercontent.com/images/dQ02N6pI1r9Y6CUex93cz1qhaM.png" alt="BITLINKS" />
         </a>
     </td>
   </tr>
@@ -53,15 +53,15 @@
 <table width="100%">
   <tr>
     <td width="65%">
-      <h3>Project Name 2</h3>
+      <h3>SPNotz</h3>
       <p>
-        Another sharp, compelling description of your second key project. For example: <i>"An e-commerce platform for selling custom art prints, featuring Stripe integration for payments, user authentication, and an admin dashboard for managing products."</i>
+        SPNotz is a free, AI-powered cloud notepad that helps users write, summarize, and manage notes smartly using voice input, reminders, and real-time assistance.Building on that, SPNotz functions as a smart cloud-based notepad offering real-time voice-to-text, text-to-speech, grammar correction, tone suggestions, and AI summarization. It supports reminders, email notifications, and auto-categorization, with secure cloud storage powered by PostgreSQL. These features aim to improve note-taking efficiency and accessibility, setting the stage for more intuitive writing experiences. Looking ahead, future updates will also introduce visual note-taking and freehand drawing capabilities to make it even more versatile."</i>
       </p>
       <p>
         <strong>Technologies:</strong> React+vite, Tailwind css, Postgres, Express.js, Node js, Nodemailer
       </p>
       <div>
-        <a href="[LINK_TO_LIVE_DEMO_2]" target="_blank">
+        <a href="https://spnotz.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-007BFF?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
         <a href="[LINK_TO_GITHUB_REPO_2]" target="_blank">
@@ -70,8 +70,8 @@
       </div>
     </td>
     <td width="35%">
-      <a href="[LINK_TO_LIVE_DEMO_2]" target="_blank">
-        <img src="[LINK_TO_PROJECT_2_SCREENSHOT_OR_GIF]" alt="Project 2 Demo" />
+      <a href="https://spnotz.vercel.app/" target="_blank">
+        <img src="https://framerusercontent.com/images/3PWdN53oyX8fLuq0mIrzpclx4s.png" alt="SPNotz" />
       </a>
     </td>
   </tr>
