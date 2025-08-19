@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Nithish+Kumar+S+P!;Full-Stack+Developer+%7C+Building+Modern+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Nithish+Kumar+S+P!;Full-Stack+Developer+%7C+Building+Modern+Web+Apps" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <strong><a href="https://nithishkumar.framer.website" target="_blank">Portfolio</a></strong> •
+  <strong><a href="https://nithishkumarsp.vercel.app" target="_blank">Portfolio</a></strong> •
   <strong><a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn</a></strong> •
   <strong><a href="mailto:nithishkumar3115@gmail.com">Email</a></strong>
   </p>
