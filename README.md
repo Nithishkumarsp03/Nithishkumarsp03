@@ -26,18 +26,18 @@
 <table width="100%">
   <tr>
     <td width="65%">
-      <h3>Project Name 1</h3>
+      <h3>BITLINKS</h3>
       <p>
-        A concise, one-or-two-sentence description of your project. What problem does it solve? Who is it for? For example: <i>"A real-time chat application that allows users to create rooms, send messages, and share images, built with the MERN stack and Socket.IO."</i>
+        A customized LinkedIn-style community platform tailored to efficiently manage user details, eliminating the need for multiple Excel sheets. It enables users to track visits, call histories, meeting minutes, and store comprehensive personality information, streamlining professional interactions and data management."</i>
       </p>
       <p>
-        <strong>Technologies:</strong> React, Node.js, Express, MongoDB, Tailwind CSS
+        <strong>Technologies:</strong> React, Node.js, Express, MySQL, CSS, Vercel, Ubuntu, Nodemailer
       </p>
       <div>
         <a href="https://bitlinks.bitsathy.ac.in/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-007BFF?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
-        <a href="[LINK_TO_GITHUB_REPO_1]" target="_blank">
+        <a href="https://github.com/Nithishkumarsp03/bitlinks-version-2" target="_blank">
           <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
@@ -58,7 +58,7 @@
         Another sharp, compelling description of your second key project. For example: <i>"An e-commerce platform for selling custom art prints, featuring Stripe integration for payments, user authentication, and an admin dashboard for managing products."</i>
       </p>
       <p>
-        <strong>Technologies:</strong> JavaScript, HTML5, CSS3, MySQL, Express.js
+        <strong>Technologies:</strong> React+vite, Tailwind css, Postgres, Express.js, Node js, Nodemailer
       </p>
       <div>
         <a href="[LINK_TO_LIVE_DEMO_2]" target="_blank">
