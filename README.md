@@ -64,7 +64,7 @@
         <a href="https://spnotz.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-007BFF?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
-        <a href="[LINK_TO_GITHUB_REPO_2]" target="_blank">
+        <a href="https://github.com/Nithishkumarsp03/backend-notepad" target="_blank">
           <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
